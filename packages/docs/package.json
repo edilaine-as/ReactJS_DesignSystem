@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@dila-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "vite.config.js",
@@ -28,10 +28,10 @@
     "vite": "^5.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@dila-ignite-ui/eslint-config": "*",
+    "@dila-ignite-ui/react": "*",
+    "@dila-ignite-ui/tokens": "*",
+    "@dila-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^8.0.4",
     "polished": "^4.3.1",
     "react": "^18.2.0",
