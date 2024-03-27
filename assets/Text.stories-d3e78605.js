@@ -1,0 +1,6 @@
+import{j as r}from"./jsx-runtime-6eef64cc.js";import{T as p}from"./index-ba723fb8.js";import"./index-c013ead5.js";import"./_commonjsHelpers-725317a4.js";import"./extends-98964cd2.js";import"./index-169ee69c.js";const T={title:"Typography/Text",component:p,args:{size:"md",children:r.jsx(r.Fragment,{children:r.jsx("span",{children:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque quam illum a sunt esse, maiores veniam quidem! Eos ex nobis, beatae quisquam ipsum, ipsam blanditiis ea iste deleniti enim quod?"})})},argTypes:{size:{options:["xxs","xs","sm","md","lg","xl","2xl","4xl","5xl","6xl","7xl","8xl","9xl"],control:{type:"inline-radio"}}}},e={},s={args:{children:"Strong text",as:"strong"}};var t,o,a;e.parameters={...e.parameters,docs:{...(t=e.parameters)==null?void 0:t.docs,source:{originalSource:"{}",...(a=(o=e.parameters)==null?void 0:o.docs)==null?void 0:a.source}}};var i,m,n;s.parameters={...s.parameters,docs:{...(i=s.parameters)==null?void 0:i.docs,source:{originalSource:`{
+  args: {
+    children: 'Strong text',
+    as: 'strong'
+  }
+}`,...(n=(m=s.parameters)==null?void 0:m.docs)==null?void 0:n.source}}};const h=["Primary","CustomTag"];export{s as CustomTag,e as Primary,h as __namedExportsOrder,T as default};
