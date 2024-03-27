@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: 2zC3uQLsyt0WRATYaFxQimAt
+          TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           TURBO_TEAM: edilaineas-projects
       - name: Deploy storybook
         working-directory: ./packages/docs
